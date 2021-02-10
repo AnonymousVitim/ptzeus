@@ -5,7 +5,7 @@ const help = (prefix) => {
 ╔════════════════════
 ║╭──❉ *INFORMAÇÕES DO USUARIO* ❉──
 ║│➸NOME DO USUARIO : undefined
-║│➸REGISTRADO :  Se n esta registrado use *${prefix}rg nome|idade*
+║│➸REGISTRADO : Se n esta registrado use *${prefix}rg nome|idade*
 ║│➸LIMITE DE COMANDOS : Not
 ║╰───────────    
 ╚════════════════════
