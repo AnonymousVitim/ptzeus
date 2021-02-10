@@ -5,7 +5,7 @@ const help = (prefix, ownerBot, botName) => {
 ╔════════════════════
 ║╭──❉ *INFORMAÇÕES DO USUARIO* ❉──
 ║│➸NOME DO USUARIO : undefined
-║│➸REGISTRADO :  *${user.length}* Se n use *${prefix}rg nome|idade*
+║│➸REGISTRADO : Se n esta registrado use *${prefix}rg nome|idade*
 ║│➸LIMITE DE COMANDOS : Not
 ║╰───────────    
 ╚════════════════════
