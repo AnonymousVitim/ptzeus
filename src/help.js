@@ -4,8 +4,8 @@ const help = (prefix) => {
 ❉──────────❉
 ╔════════════════════
 ║╭──❉ *INFORMAÇÕES DO USUARIO* ❉──
-║│➸NOME DO USUARIO : undefined
-║│➸REGISTRADO : Se n esta registrado use *${prefix}rg nome|idade*
+║│➸SOLICITADO POR : @${num.split('@')[0]}
+║│➸REGISTRO : Registre-se mandando *${prefix}registrar Seu nome|idade*
 ║│➸LIMITE DE COMANDOS : Not
 ║╰───────────    
 ╚════════════════════
