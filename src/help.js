@@ -12,8 +12,8 @@ const help = (prefix) => {
 ╔════════════════════
 ║╭──❉ *INFORMAÇÕES* ❉──
 ║│➸ Prefix: 「  ${prefix}  」
-║│➸ Criador : *ViTiM Botz*
-║│➸ Numero do meu criador: wa.me/5567996005372
+║│➸ Criador : * ⃬⃗𝑽𝑰𝑻𝑰𝑴*
+║│➸ Numero do meu pai: wa.me/5567996005372
 ║╰───────────    
 ╠════════════════════
 ║╭──❉ *STICKERS* ❉──
